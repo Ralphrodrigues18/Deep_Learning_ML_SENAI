@@ -4,7 +4,6 @@ from tensorflow import keras
 from tensorflow.keras.layers import Conv2D, Input, Dense, Flatten, MaxPooling2D, Dropout, BatchNormalization
 
 def create_model():
-
     model = keras.Sequential()
 
     # Adicionando a camada de entrada

@@ -4,6 +4,7 @@ from deep_learning.modeling.train import train_model
 from deep_learning.modeling.evaluate import evaluate_model
 from deep_learning.modeling.pipeline import preprocess_data
 
+
 def main():
     # Pré-processamento dos dados
 
